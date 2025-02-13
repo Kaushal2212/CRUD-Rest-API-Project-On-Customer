@@ -27,7 +27,7 @@
 
 <p>
   <b>Getting Started</b><br>
-  - Clone the repository: <code>git clone https://github.com/your-username/customer-management</code><br>
+  - Clone the repository: <code>git clone https://https://github.com/Kaushal2212/CRUD-Rest-API-Project-On-Customer</code><br>
   - Navigate to the project directory: <code>cd customer-management</code><br>
   - Configure the database in <code>application.properties</code>.<br>
   - Install dependencies: <code>mvn clean install</code><br>
