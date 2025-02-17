@@ -30,8 +30,6 @@
   - Clone the repository: <code>git clone https://github.com/Kaushal2212/CRUD-Rest-API-Project-On-Customer</code><br>
   - Navigate to the project directory: <code>cd customer-management</code><br>
   - Configure the database in <code>application.properties</code>.<br>
-  - Install dependencies: <code>mvn clean install</code><br>
-  - Start the application: <code>mvn spring-boot:run</code><br>
   - Access the API via <a href="http://localhost:8080">http://localhost:8080</a>.<br>
 </p>
 
